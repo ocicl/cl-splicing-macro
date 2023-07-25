@@ -1,0 +1,10 @@
+* cl-splicing-macro
+
+Macro, that actually inject several forms into surrounding macros, not just PROGN
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-splicing-macro.git   |
+| commit  | 2852877  |
+| systems | cl-splicing-macro |
+|---------+-------------------------------------------|
+
